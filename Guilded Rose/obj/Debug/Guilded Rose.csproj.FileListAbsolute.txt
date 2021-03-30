@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded Rose.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded_Rose.Properties.Resources.resources
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded Rose.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded Rose.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\bin\Debug\Guilded Rose.exe.config
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\bin\Debug\Guilded Rose.exe
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\bin\Debug\Guilded Rose.pdb
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded Rose.exe
+C:\Users\user\source\repos\Guilded Rose\Guilded Rose\obj\Debug\Guilded Rose.pdb
