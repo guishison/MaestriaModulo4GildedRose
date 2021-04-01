@@ -20,7 +20,8 @@
 				{
 					item.quality -= 1;
 				}
-			}
+				item.sellIn = 0;
+			} 
 		}
 	}
 }

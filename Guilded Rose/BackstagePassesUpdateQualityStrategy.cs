@@ -10,14 +10,18 @@
 			}
 			else if (item.quality < 50)
 			{
-				int? qualityIncrease = qualityIncreaseBy(item.sellIn);
-				item.quality += qualityIncrease.Value;
+				int qualityIncrease = item.quality * qualityIncreaseBy(item.sellIn);
+				item.quality = (item.quality>10)?qualityIncrease:(qualityIncrease + 1);
+            }
+            else
+            {
+				item.quality = 50;
 			}
 			item.sellIn--;
 		}
 
 		// Depende de los parametros dados este va a aumentar el precio
-		private int? qualityIncreaseBy(int? remainingDaysBeforeConcert)
+		private int qualityIncreaseBy(int remainingDaysBeforeConcert)
 		{
 			if (remainingDaysBeforeConcert <= 5)
 			{
